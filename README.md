@@ -11,4 +11,4 @@ This repository provides the PIIP in CSV format as well as a codebook providing 
 
 **Version 1.1 (August 2023)**
 
-Version 1.1 adds lagged versions (one year) of the explanatory variables.
+Version 1.1 adds one-year lags of the explanatory variables.
