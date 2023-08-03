@@ -8,3 +8,7 @@ The dataset was introduced in my book _Making International Institutions Work_. 
 Lall, Ranjit. 2023. _Making International Institutions Work: The Politics of Performance_. Cambridge: Cambridge University Press.
 
 This repository provides the PIIP in CSV format as well as a codebook providing a detailed description of all variables in the dataset. The codebook divides the variables into three categories: (1) identifier variables (institution and year); (2) indicators of institutional performance; and (3) explanatory variables (discussed in the book).
+
+**Version 1.1 (August 2023)**
+
+Version 1.1 adds lagged versions of the explanatory variables.
