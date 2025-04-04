@@ -1,5 +1,4 @@
-# The PIIP Dataset
-**Performance of International Organizations Project (PIIP) dataset**
+# Performance of International Organizations Project (PIIP) dataset
 
 The PIIP is the most comprehensive dataset on the performance of international institutions. It includes performance ratings of 54 major institutions between 2008 and 2018 issued by the governments of Australia, Denmark, the Netherlands, Sweden, and the United Kingdom and by the Multilateral Organization Performance Assessment Network (MOPAN), a network of large donor states. A wealth of additional information on these institutions, including on their policy autonomy, governance functions, and operational partnerships, is also provided.
 
